@@ -1,0 +1,16 @@
+{
+  "name": "websocket-hot-potato",
+  "version": "1.0.0",
+  "description": "websocket hot potato game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "ws": "^8.14.2"
+  }
+}
